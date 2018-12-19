@@ -20,3 +20,12 @@ Week 8 Ethereum, smart contracts, other altcoins
 Week 9 Byzantine agreement and algorand
 
 Week 10 Economics, community, regulation, politics
+
+Assignment1:  
+We will implement the logic to process transactions and produce the ledger.
+Transactions are organized into time periods or blocks. In each block, we will receive a list of
+transactions, validate the transactions you receive, and publish a list of validated transactions.
+
+Assignment2:  
+In this assignment we will implement a function that’s part of a block-chain-based distributed consensus
+protocol. Specifically, our code will receive a block, validate this block and add it to the chain.
