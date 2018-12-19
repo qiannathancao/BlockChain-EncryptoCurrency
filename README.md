@@ -29,3 +29,20 @@ transactions, validate the transactions you receive, and publish a list of valid
 Assignment2:  
 In this assignment we will implement a function that’s part of a block-chain-based distributed consensus
 protocol. Specifically, our code will receive a block, validate this block and add it to the chain.
+
+Lab1:  
+The first lab will guide you to set up a new node on an Ethereum blockchain
+for our class. We plan to use the same blockchain to conduct subsequent labs.
+Therefore, it is important to be successful on this one.
+
+Lab2:  
+Following the first lab, the second one will ask you to do mining and transac-
+tions on the Ethereum blockchain set up in the first lab. 
+
+Lab3:  
+The third lab provides you a chance to practice the most fascinating feature of
+Ethereum: smart contract.
+
+Lab3 additional:  
+This document provides hints to some common problems in Lab 3. In addition,
+it describes an intuitive method to debug your smart contract.
