@@ -1,6 +1,8 @@
 # Computer Science: Blockchain and Cryptocurrency
  An introduction to blockchain and cryptocurrency technologies, Also partly a springboard toward deeper understanding and further exploration
 
+LEARNING INDEX:  
+
 Week 1 Course overview (a history of money, cryptocurrencies, blockchain) and a high-level overview of Bitcoin protocol and distributed consensus  
 Week 2 Cryptography, hashing functions  
 Week 3 Transaction, block, data structures
@@ -14,6 +16,7 @@ Week 10 Economics, community, regulation, politics
 
 
 HANDS-ON DRILLS:  
+
 Assignment1:  
 We will implement the logic to process transactions and produce the ledger.
 Transactions are organized into time periods or blocks. In each block, we will receive a list of
