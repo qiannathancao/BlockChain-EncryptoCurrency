@@ -12,8 +12,8 @@ Week 8 Ethereum, smart contracts, other altcoins
 Week 9 Byzantine agreement and algorand 
 Week 10 Economics, community, regulation, politics 
 
-Hands-on drills:  
 
+HANDS-ON DRILLS:  
 Assignment1:  
 We will implement the logic to process transactions and produce the ledger.
 Transactions are organized into time periods or blocks. In each block, we will receive a list of
